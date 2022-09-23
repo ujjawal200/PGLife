@@ -121,34 +121,3 @@
     text-align: center;
 }
 
-/* Filter Modal */
-#filter-modal .modal-dialog {
-    max-width: 600px;
-}
-
-#filter-modal .modal-body h5 {
-    color: #777777;
-}
-
-#filter-modal .modal-body hr {
-    margin: 4px 0px;
-}
-
-#filter-modal .modal-body button {
-    font-size: 14px;
-    width: 100px;
-    margin: 16px;
-}
-
-#filter-modal .modal-body .btn-active {
-    color: #fff;
-    background-color: #343a40;
-}
-
-#filter-modal .modal-body button i {
-    margin-right: 8px;
-}
-
-#filter-modal .modal-footer button {
-    width: 120px;
-}
